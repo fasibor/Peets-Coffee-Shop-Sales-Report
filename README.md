@@ -15,7 +15,7 @@ To get started with this project:
 
 - **Download the Dataset** – Get the Coffee Bean Sales dataset from [Kaggle](https://www.kaggle.com/datasets/halaturkialotaibi/coffee-bean-sales-dataset) to explore sales trends across different cities and coffee types.
 + **Open in Excel** – Use Microsoft Excel to analyze sales performance using built-in pivot tables and charts.
-* **Use pivot tables in Excel to explore key metrics:** Start with Total Sales & Revenue by City to identify high-performing locations like Jeddah and Riyadh. Analyze Product Performance by comparing the sales of top coffee varieties, such as Colombian, Costa Rican, and Guatemalan, to determine regional preferences. Lastly, examine Seasonal Trends to detect peak sales months and periods of decline, helping to optimize promotions and inventory management throughout the year.
+* **Use Pivot Tables to Explore Key Metrics** - Start with Total Sales & Revenue by City to identify high-performing locations like Jeddah and Riyadh. Analyze Product Performance by comparing the sales of top coffee varieties, such as Colombian, Costa Rican, and Guatemalan, to determine regional preferences. Lastly, examine Seasonal Trends to detect peak sales months and periods of decline, helping to optimize promotions and inventory management throughout the year.
 - **Clean and Prepare Data** – Ensure accuracy by fixing date formats, standardizing product names, and removing duplicate entries.
 + **Customize Your Analysis** – Apply filters, sorting, and additional visualizations to refine insights into pricing impact, customer preferences, and promotional effectiveness.
 
