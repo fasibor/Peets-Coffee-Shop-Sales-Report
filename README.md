@@ -1,5 +1,6 @@
 # Peets-Coffee-Shop-Sales-Report
 This analysis is to examine sales trends, identify customer preferences, and forecast future revenue patterns for Peet’s Coffee Shop. By analyzing key metrics such as product performance, peak sales periods, and customer preferences, the goal is to provide data-driven insights to optimize business strategies and enhance customer satisfaction.
+
 ![dashboard 4](https://github.com/user-attachments/assets/bec75f89-8fc1-4eb8-81d3-5ce28f38d9d7)
 
 ## Why the Project Is Useful for Peet’s Coffee
